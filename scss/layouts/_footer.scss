@@ -93,7 +93,7 @@
   outline: 0;
 }
 
-.footer__button {
+.foooter__btn {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -114,8 +114,8 @@
 
   transition: background-color 250ms var(--timing-function);
 }
-.footer-email-button:hover,
-.footer-email-button:focus {
+.foooter__btn:hover,
+.foooter__btn:focus {
   background-color: #188ce8;
 }
 
